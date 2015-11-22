@@ -48,3 +48,11 @@ body {
 #nav ul ul li a:hover {
     color: #699;
 }
+.new {
+    font-style: oblique;
+   font-variant: small-caps;
+}
+
+.active {
+	background-color: dimgray;
+}
