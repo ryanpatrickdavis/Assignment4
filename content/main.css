@@ -3,6 +3,7 @@ body {
     margin: 0;
     font-family: Arial;
     font-size: 17px;
+    
 }
 #nav {
     background-color: #222;
@@ -55,4 +56,43 @@ body {
 
 .active {
 	background-color: dimgray;
+}
+
+h1,h2,h3,h4,h5,h6 {
+	font-weight: bold;
+	
+}
+h1 {
+	font-size: 3em;
+	line-height: 2.7em;
+    color: blueviolet;
+}
+h2 {
+	font-size: 2em;
+	line-height: 1.8em;
+    color: goldenrod;
+}
+
+h3 {
+	font-size: 1.8em;
+	line-height: 1.4em;
+}
+
+h4 {
+	font-size: 1.5em;
+	line-height: 1em;
+}
+
+h5 {
+	font-size: 1em;
+	line-height: .8em;
+	
+}
+
+h6 {
+	font-size: .8em;
+	line-height: .6em;
+}
+.container {
+    background: url(assets/images/weather.png);
 }
