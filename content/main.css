@@ -64,12 +64,12 @@ h1,h2,h3,h4,h5,h6 {
 }
 h1 {
 	font-size: 3em;
-	line-height: 2em;
+	line-height: 1.8em;
     color: blueviolet;
 }
 h2 {
 	font-size: 2em;
-	line-height: 1.8em;
+	line-height: 1.6em;
     color: goldenrod;
 }
 
